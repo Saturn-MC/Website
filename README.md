@@ -8,12 +8,10 @@
 
 **Is this free?**
 
-
 Yes! This client is free with no intent of making any money.
 We just want to get people to feel **premium** while on a **FREE** client.
 
 **When is the release date?**
-
 
 We don't know, we have just started working on this client and expect a very long time to finish.
 
