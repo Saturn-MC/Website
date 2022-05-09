@@ -23,7 +23,7 @@ ALL CREDITS TO **INTENT.STORE AND JUUL.LOL**
 
 Line of code:
 
-```HTML
+```CSS
 html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
